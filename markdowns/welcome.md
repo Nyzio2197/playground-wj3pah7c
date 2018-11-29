@@ -1,4 +1,4 @@
-public class idealGas {
+public class idealGas { 
     // derives all equations from:
     // (atmospheres) * (liters) = ((mass) / (molar mass)) * (R [constant equal to 0.082057]) * (kelvin) 
 
